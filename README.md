@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @atharavmishra
 
--  ❤️ I love to create
+-  ❤️ I love to create and experiment
 - 🌱 mastering android native development
 - 📫 You can reach me at atharvmishra77@gmail.com
 
