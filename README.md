@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @atharavmishra
 
 -  ❤️ I love to create and experiment
-- 🌱 currently mastering android native development
+- 🌱 Currently mastering android native development
 - 📫 You can reach me at atharvmishra77@gmail.com
 
 ## 🏆 GitHub Trophies
