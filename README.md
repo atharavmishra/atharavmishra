@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @atharvmishra
+# 👋 Hi, I’m @atharavmishra
 
 -  ❤️ I love to create and experiment
 - 🌱 Currently mastering android native development
