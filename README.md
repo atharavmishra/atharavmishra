@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @atharavmishra
 
--  ❤️ I love to create and experiment
+- ❤️ I love to create and experiment
 - 🌱 Currently mastering android native development
 - 📫 You can reach me at atharvmishra77@gmail.com
+- 🌐 Check out my [work](https://atharv-portfolio-ashy.vercel.app/)
+
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=atharavmishra&theme=onedark)
