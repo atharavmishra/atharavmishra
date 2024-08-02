@@ -47,7 +47,8 @@
 
 <!--## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an E-Commerce App with Android](https://medium.com/@atharavmishra/build-e-commerce-app-android-123456)
+
+<!--- [How to Build an E-Commerce App with Android](https://medium.com/@atharavmishra/build-e-commerce-app-android-123456)
 - [Migrating Codebases from Java to Kotlin](https://medium.com/@atharavmishra/migrating-java-to-kotlin-123456)
 - [Integrating Payment Gateways in Android Apps](https://medium.com/@atharavmishra/integrate-payment-gateways-android-123456)
 <!-- BLOG-POST-LIST:END --> -->
