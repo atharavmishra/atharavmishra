@@ -41,21 +41,20 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atharavmishra&theme=rogue)
 
 ## 🏅 Achievements
-- 🌟 Contributed to several open-source projects
-- 🏆 Awarded Best Mobile App Developer at XYZ Solutions
-- 📈 Developed high-performing e-commerce application with over 100K downloads
+- 🌟 Contributed to several open-source projects.
+- 🏆 Awarded Best Mobile App Developer at UnnatiAgri.
+- 📈 Developed high-performing e-commerce application with over 100K downloads.
 
-## 📚 Recent Blog Posts
+<!--## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Build an E-Commerce App with Android](https://medium.com/@atharavmishra/build-e-commerce-app-android-123456)
 - [Migrating Codebases from Java to Kotlin](https://medium.com/@atharavmishra/migrating-java-to-kotlin-123456)
 - [Integrating Payment Gateways in Android Apps](https://medium.com/@atharavmishra/integrate-payment-gateways-android-123456)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/atharavmishra)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/atharavmishra)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@atharavmishra)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/atharavmishra)
 
 ## 📝 Latest Projects
