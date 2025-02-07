@@ -49,6 +49,6 @@
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 ### 🌐 Visit My Portfolio  
-[**emamagic.io**](https://atharv-portfolio-ashy.vercel.app)  
+[**atharv-portfolio-ashy.vercel.app**](https://atharv-portfolio-ashy.vercel.app)  
 
 </div>
