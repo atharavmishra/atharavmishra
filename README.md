@@ -1,16 +1,19 @@
-# 👋 Hi, I’m @atharavmishra
+## Hi There!, I'm *Emamagic*! :wave:
 
-- ❤️ I love to create and experiment
-- 🌱 Currently mastering Android native development
-- 📫 You can reach me at atharvmishra77@gmail.com
-- 🌐 Check out my [work](https://atharv-portfolio-ashy.vercel.app/)
+<div align="center">
+  
+</div>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=atharavmishra&theme=onedark)
-
-## 📊 GitHub Stats
-![Atharav's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharavmishra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharavmishra&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=emamagic&show_icons=true&theme=radical" width="400" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Skills
 
