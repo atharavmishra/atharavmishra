@@ -44,10 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/atharv-mishra-1149821a9)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/atharavmishra)
 
-
-## 🎨 Favorite Quote
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
 ### 🌐 Visit My Portfolio  
 [**atharv-portfolio-ashy.vercel.app**](https://atharv-portfolio-ashy.vercel.app)  
 
