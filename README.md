@@ -43,27 +43,11 @@
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atharavmishra&theme=rogue)
 
-## 🏅 Achievements
-- 🌟 Contributed to several open-source projects.
-- 🏆 Awarded Best Mobile App Developer at UnnatiAgri.
-- 📈 Developed high-performing e-commerce application with over 100K downloads.
-
-<!--## 📚 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!--- [How to Build an E-Commerce App with Android](https://medium.com/@atharavmishra/build-e-commerce-app-android-123456)
-- [Migrating Codebases from Java to Kotlin](https://medium.com/@atharavmishra/migrating-java-to-kotlin-123456)
-- [Integrating Payment Gateways in Android Apps](https://medium.com/@atharavmishra/integrate-payment-gateways-android-123456)
-<!-- BLOG-POST-LIST:END --> -->
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/atharv-mishra-1149821a9)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/atharavmishra)
 
-## 📝 Latest Projects
-- [Project 1: E-Commerce App](https://github.com/atharavmishra/e-commerce-app)
-- [Project 2: Finance Management App](https://github.com/atharavmishra/finance-management-app)
-- [Project 3: Weather Forecast App](https://github.com/atharavmishra/weather-forecast-app)
 
 ## 🎨 Favorite Quote
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
