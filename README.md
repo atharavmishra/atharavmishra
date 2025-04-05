@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding">
+      <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width="400" alt="Coding">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=atharavmishra&show_icons=true&theme=radical" width="400" alt="GitHub Stats">
